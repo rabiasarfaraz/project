@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>design-handfoff-prototype</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SLICES" transform="translate(-300.817360, 0.000000)"></g>
+        <g id="Developers" transform="translate(2.509951, 3.473145)">
+            <line x1="0" y1="8.45003521" x2="35.6189548" y2="8.45003521" id="Rectangle-Copy-2" stroke="#121212" stroke-width="2"></line>
+            <path d="M22.4548621,0 L31.6189548,0 C33.8280938,-4.05812251e-16 35.6189548,1.790861 35.6189548,4 L35.6189548,26.5 C35.6189548,28.709139 33.8280938,30.5 31.6189548,30.5 L4,30.5 C1.790861,30.5 6.84353677e-13,28.709139 6.82121026e-13,26.5 L6.82121026e-13,9.95467841 L6.82121026e-13,9.95467841" id="Rectangle" stroke="#121212" stroke-width="2" transform="translate(17.809477, 15.250000) rotate(-180.000000) translate(-17.809477, -15.250000) "></path>
+            <circle id="Oval" fill="#121212" cx="4.86100643" cy="4.40836971" r="1.1066119"></circle>
+            <circle id="Oval" fill="#121212" cx="8.86100643" cy="4.40836971" r="1.1066119"></circle>
+            <circle id="Oval" fill="#121212" cx="12.8610064" cy="4.40836971" r="1.1066119"></circle>
+            <polyline id="Path-2" stroke="#121212" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" points="23.0352811 22.958549 17.8094774 28.1843526 23.0352811 33.4101562"></polyline>
+            <polyline id="Path-2" stroke="#121212" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(32.666548, 28.184353) scale(-1, 1) translate(-32.666548, -28.184353) " points="35.2794497 22.958549 30.0536461 28.1843526 35.2794497 33.4101562"></polyline>
+        </g>
+    </g>
+</svg>
